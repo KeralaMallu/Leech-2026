@@ -30,7 +30,6 @@ pymongo
 pyrotgfork
 python-magic
 pytz
-qbittorrent-api
 requests
 speedtest-cli
 telegraph
